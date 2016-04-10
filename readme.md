@@ -1,5 +1,4 @@
 # An Introduction to Statistical Learning
-## with Applications in R
 
 Notes and code I am writing as I work through An Introduction to Statistical Learning with Applications in R, written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 
@@ -15,5 +14,6 @@ I want to improve both my competence in statistical scripting in R, as well as e
 
 This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
 
-> An Introduction to Statistical Learning (ISL)" by James, Witten, Hastie and Tibshirani is the "how to'' manual for statistical learning. Inspired by "The Elements of Statistical Learning'' (Hastie, Tibshirani and Friedman), this book provides clear and intuitive guidance on how to implement cutting edge statistical and machine learning methods. ISL makes modern methods accessible to a wide audience without requiring a background in Statistics or Computer Science. The authors give precise, practical explanations of what methods are available, and when to use them, including explicit R code. Anyone who wants to intelligently analyze complex data should own this book.             
+> An Introduction to Statistical Learning (ISL)" by James, Witten, Hastie and Tibshirani is the "how to'' manual for statistical learning. Inspired by "The Elements of Statistical Learning'' (Hastie, Tibshirani and Friedman), this book provides clear and intuitive guidance on how to implement cutting edge statistical and machine learning methods. ISL makes modern methods accessible to a wide audience without requiring a background in Statistics or Computer Science. The authors give precise, practical explanations of what methods are available, and when to use them, including explicit R code. Anyone who wants to intelligently analyze complex data should own this book.    
+         
   -  Larry Wasserman, Professor, Department of Statistics and Department of Machine Learning, CMU.
