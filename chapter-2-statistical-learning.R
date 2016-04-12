@@ -23,8 +23,10 @@ summary(lm_tv)  ##  Multiple R-squared: 0.6119
 Income <- read.csv("Income2.csv")  ##  Income1.csv lacks Seniority
 utils::View(Income)
 qplot(data = Income, x = Education, y = Income, geom = c("point", "smooth"))
-lm_income <- lm(Income ~ Education, data = Income)
-summary(lm_income)  ##  Multiple R-squared: 0.931
+lm_education <- lm(Income ~ Education, data = Income)
+lm_seniority <- lm(Income ~ Seniority, data = Income)
+summary(lm_education)  ##  Multiple R-squared: 0.931
+summary(lm_seniority)  ##  Multiple R-squared: 0.2686
 
   ## Next step: 3d plot in ggplot2
   ## On page 32
