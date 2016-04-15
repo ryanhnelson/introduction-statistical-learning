@@ -42,3 +42,9 @@ qplot(data=Advertising_long, x=Budget, y=Sales,
       color=Category, geom=c("point", "smooth"))
  # Answer: from R-squared above, DEFINITELY TV.
  # Radio has lower R^2, but smoothed line shows steep correlation
+
+
+ # Quantitative vs qualitative (i.e., categorical)
+ ## Quantitative response: regression problems
+ ## Qualitative response: classification problems
+ ### (K-nearest neighbors & boosting can do both)
